@@ -1,6 +1,8 @@
 - 👋 E ai! Eu sou o Vinícius Brito.
 - 💻 Estou aprendendo sobre HTML, CSS e javascript.
 
+##
+
 <div align="center">
   <a href="https://github.com/Viniciusdeab">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciusdeab&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
