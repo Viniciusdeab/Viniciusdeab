@@ -1,5 +1,5 @@
 - 👋 E ai! Eu sou o Vinícius Brito.
-- 💻 Estou aprendendo sobre HTML, CSS e javascript.
+- 💻 Estou aprendendo sobre HTML, CSS e JS.
 
 ##
 
