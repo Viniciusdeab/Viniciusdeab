@@ -1,5 +1,7 @@
 - 👋 E ai! Eu sou o Vinícius Brito.
-- 💻 Estou aprendendo sobre HTML, CSS e JS.
+- 💻 Estou me tornando Dev. front end.
+- 📚 Adquirindo conhecimento sobre HTML, CSS e JS.
+- 📈 Buscando aprender ao máximo sobre HTML, CSS e JS.
 
 ##
 
