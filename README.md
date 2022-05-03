@@ -1,6 +1,6 @@
 - 👋 E ai! Eu sou o Vinícius Brito.
 - 💻 Estou me tornando Dev. front end.
-- 📚 Adquirindo conhecimento sobre HTML, CSS e JS.
+- 📚 Conhecimento adquiridos até o momento: Excel, MSProject, MySQL, HTML, CSS e JS.
 - 📈 Buscando aprender ao máximo sobre JS.
 
 ##
@@ -15,6 +15,7 @@
   <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vini-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
   <img align="center" alt="vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
  </div>
  
