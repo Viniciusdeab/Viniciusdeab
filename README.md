@@ -1,4 +1,4 @@
-- 👋 E ai! Eu sou o Vinícius Brito.
+# - 👋 E ai! Eu sou o Vinícius Brito.
 - 💻 Dev. front end.
 - 📚 Conhecimento adquiridos até o momento: Excel, MSProject, MySQL, HTML, CSS e JS.
 - 📈 Buscando aprender ao máximo sobre JS.
