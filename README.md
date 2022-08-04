@@ -1,7 +1,8 @@
 # 👋 E ai! Eu sou o Vinícius Brito.
 - 💻 Dev. front-end Jr.
-- 📚 Conhecimento adquiridos até o momento: Excel, MSProject, MySQL, HTML, CSS e JS.
-- 📈 Buscando aprender ao máximo sobre JS.
+- 📋 Profissional em transição de carreira, formado em Tec. em mecânica pelo IFRJ, trabalhe com a área de engenharia e planejamento utilizando excel e project como principais ferramentas, ensino superior em Eng. de produção até o setimo periodo, estou buscando oportunidade para me recolocação.
+- 📚 Conhecimento adquiridos até o momento: HTML, CSS, JS, , MySQL, Excel, MSProject.
+- 📈 Estudando sobre ReactJS.
 
 ##
 
