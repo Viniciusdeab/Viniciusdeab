@@ -1,7 +1,7 @@
 # 👋 E ai! Eu sou o Vinícius Brito.
 - 💻 Dev. front-end Jr.
-- 📋 Profissional em transição de carreira, formado em Tec. em mecânica pelo IFRJ, trabalhe com a área de engenharia e planejamento utilizando excel e project como principais ferramentas, ensino superior em Eng. de produção até o setimo periodo, estou buscando oportunidade para me recolocação.
-- 📚 Conhecimento adquiridos até o momento: HTML, CSS, SASS, JS, JQuery, MySQL, Excel, MSProject.
+- 📋 Profissional em transição de carreira, formado em Tec. em mecânica pelo IFRJ, trabalhe com a área de engenharia e planejamento utilizando excel e project como principais ferramentas, ensino superior em Eng. de produção até o setimo periodo, estou buscando oportunidade para me recolocação no mercado de trabalho na área de tecnologia.
+- 📚 Conhecimento adquiridos até o momento: HTML, CSS, SASS, JS, JQuery, MySQL, Git, Excel, MSProject.
 - 📈 Estudando sobre ReactJS.
 
 ##
@@ -17,7 +17,8 @@
   <img align="center" alt="vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vini-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"> 
-  <img align="center" alt="vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
+  <img align="center" alt="vini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="vini-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
   <img align="center" alt="vini-EXCEL" height="38" width="38" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png">
   <img align="center" alt="vini-MSProject" height="38" width="38" src="https://img.icons8.com/fluency/48/000000/microsoft-project-2019.png">
 
